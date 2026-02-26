@@ -1,4 +1,4 @@
-[🚀 View Live App](https://house-price-prediction-project2026.streamlit.app)
+[🚀 View Live App](https://house-price-prediction-project-2026.streamlit.app/)
 # House Price Prediction Project
 
 This project predicts house prices using a Machine Learning model developed in `Google Colab` and a web-based User Interface built with `Streamlit`.
